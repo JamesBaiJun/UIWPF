@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="PrimaryFocuseForeground" Color="#4685F4"/>
+    <SolidColorBrush x:Key="MarkBackground" Color="#33C6C6C6"/>
+    <FontFamily x:Key="ZiYuan">
+        pack://application:,,,/UIWPF;component/#汉仪正圆
+    </FontFamily>
+</ResourceDictionary>
